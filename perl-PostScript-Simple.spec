@@ -58,3 +58,4 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorlib}/PostScript/Simple.pm
 %dir %{perl_vendorlib}/PostScript/Simple
 %{perl_vendorlib}/PostScript/Simple/EPS.pm
+%{_mandir}/man3/*
