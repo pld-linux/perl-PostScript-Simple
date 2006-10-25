@@ -8,13 +8,13 @@
 Summary:	PostScript::Simple - produce PostScript files from Perl
 Summary(pl):	PostScript::Simple - tworzenie plików PostScript z poziomu Perla
 Name:		perl-PostScript-Simple
-Version:	0.06
-Release:	2
+Version:	0.07
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	836f74f3fab6631faeb92a8310b57140
+# Source0-md5:	4f67d5aabff883aa111197528172e804
 URL:		http://search.cpan.org/dist/PostScript-Simple/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
