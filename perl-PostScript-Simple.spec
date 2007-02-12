@@ -6,7 +6,7 @@
 %define		pdir	PostScript
 %define		pnam	Simple
 Summary:	PostScript::Simple - produce PostScript files from Perl
-Summary(pl):	PostScript::Simple - tworzenie plików PostScript z poziomu Perla
+Summary(pl.UTF-8):   PostScript::Simple - tworzenie plikÃ³w PostScript z poziomu Perla
 Name:		perl-PostScript-Simple
 Version:	0.07
 Release:	1
@@ -27,11 +27,11 @@ PostScript files from Perl. It has several graphics primitives that
 allow lines, circles, polygons and boxes to be drawn. Text can be
 added to the page using standard PostScript fonts.
 
-%description -l pl
-PostScript::Simple udostêpnia prosty sposób tworzenia plików
-PostScript z poziomu Perla. Ma ró¿ne graficzne prymitywy pozwalaj±ce
-na rysowanie linii, okrêgów, wielok±tów i pude³ek. Mo¿na dodawaæ do
-stron tekst przy u¿yciu standardowych fontów postscriptowych.
+%description -l pl.UTF-8
+PostScript::Simple udostÄ™pnia prosty sposÃ³b tworzenia plikÃ³w
+PostScript z poziomu Perla. Ma rÃ³Å¼ne graficzne prymitywy pozwalajÄ…ce
+na rysowanie linii, okrÄ™gÃ³w, wielokÄ…tÃ³w i pudeÅ‚ek. MoÅ¼na dodawaÄ‡ do
+stron tekst przy uÅ¼yciu standardowych fontÃ³w postscriptowych.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
