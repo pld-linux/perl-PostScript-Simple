@@ -6,7 +6,7 @@
 %define		pdir	PostScript
 %define		pnam	Simple
 Summary:	PostScript::Simple - produce PostScript files from Perl
-Summary(pl.UTF-8):   PostScript::Simple - tworzenie plików PostScript z poziomu Perla
+Summary(pl.UTF-8):	PostScript::Simple - tworzenie plików PostScript z poziomu Perla
 Name:		perl-PostScript-Simple
 Version:	0.07
 Release:	1
